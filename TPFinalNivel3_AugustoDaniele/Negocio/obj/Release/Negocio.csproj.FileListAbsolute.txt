@@ -1,0 +1,9 @@
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\bin\Release\Negocio.dll
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\bin\Release\Negocio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\bin\Release\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\bin\Release\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\obj\Release\Negocio.dll
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Negocio\obj\Release\Negocio.pdb

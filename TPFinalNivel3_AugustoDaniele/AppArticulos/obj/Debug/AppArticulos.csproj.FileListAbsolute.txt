@@ -1,0 +1,34 @@
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\AppArticulos.exe.config
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\AppArticulos.exe
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\AppArticulos.pdb
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\Negocio.dll
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\Negocio.pdb
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.Properties.Resources.resources
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.GenerateResource.cache
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.CopyComplete
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.exe
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.pdb
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.FormAltaArticulo.resources
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.FormArticulo.resources
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\AppArticulos.exe.config
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\AppArticulos.exe
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\AppArticulos.pdb
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\Negocio.dll
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\bin\Debug\Negocio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.FormAltaArticulo.resources
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.FormArticulo.resources
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.Properties.Resources.resources
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.GenerateResource.cache
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.csproj.CopyComplete
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.exe
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\AppArticulos\obj\Debug\AppArticulos.pdb

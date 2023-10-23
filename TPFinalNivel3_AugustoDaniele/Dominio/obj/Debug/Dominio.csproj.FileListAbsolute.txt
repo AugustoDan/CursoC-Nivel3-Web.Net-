@@ -1,0 +1,18 @@
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\Dominio\bin\Debug\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\Dominio\bin\Debug\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\UTN-TUP\Programacion II\Unidad I\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\Dominio\bin\Debug\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\Dominio\bin\Debug\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\Curso MP\Curso C# Nivel 2\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\bin\Debug\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\bin\Debug\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\obj\Debug\Dominio.pdb

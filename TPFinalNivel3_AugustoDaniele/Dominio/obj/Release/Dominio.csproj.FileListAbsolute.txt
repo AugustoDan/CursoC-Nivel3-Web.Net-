@@ -1,0 +1,6 @@
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\bin\Release\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\bin\Release\Dominio.pdb
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\obj\Release\Dominio.dll
+C:\Users\crazy\OneDrive\Escritorio\Cursos\Curso MP\Curso C# Nivel 3\TPFinalNivel2_AugustoDaniele\Dominio\obj\Release\Dominio.pdb
